@@ -26,7 +26,8 @@
 本を読み終わった際・本を処分した際に利用し本棚を管理する
 
 ## 設計書
-<...>
+実装機能リスト
+URL：https://docs.google.com/spreadsheets/d/1f1ceoEWWii9XgLuU5XPGY3BDRCHmx5gdlEmc_Sk1FKQ/edit#gid=1091086188
 
 ## 開発環境
 - OS：Linux(CentOS)
