@@ -3,7 +3,7 @@
 ## サイト概要
 ### サイトテーマ
 読んだ本を投稿するレビューサイトで投稿した本は一覧に本棚として表示し、
-読まなくなって売ったり、捨てたり処分した本は読了済み蘭に表示して残しておける本棚の管理ができるレビューサイト
+読まなくなって売ったり、捨てたり処分した本は処分済みに表示して残しておける本棚の管理ができるレビューサイト
 
 ### テーマを選んだ理由
 私は読書が趣味でよく本を読むのですが、すぐに本棚がいっぱいになってしまいますので本棚に入りきれなかった本は選定して処分します。
@@ -21,20 +21,23 @@
 
 ### ターゲットユーザ
 - 本を読む方
-- 読み終わった本または処分した本の管理をしたい方
+- 本棚や処分した本の管理をしたい方
 - 同じ読書の傾向を持った方と交流したい方
 
 ### 主な利用シーン
-- 本を読み終わった時
-- 本を読み終わり本棚にしまう時
+- 本を読み終わった時や読み終わった本を本棚にしまう時
 - 本棚の本を処分する時
 - 気になる本を調べたい時
 
 ## 設計書
-- 実装機能リスト
+- 実装機能リスト<br>
 URL：https://docs.google.com/spreadsheets/d/1f1ceoEWWii9XgLuU5XPGY3BDRCHmx5gdlEmc_Sk1FKQ/edit#gid=1091086188
-- WBS
+- WBS<br>
 URL：https://docs.google.com/spreadsheets/d/1eM8f8JtH7bN6VhV-i-u89uWzS5ik4SPMuMlohqKst8U/edit#gid=977420151
+- 画面遷移図（管理者側）<br>
+URL：https://app.diagrams.net/#G12gOUpQH89oiXXlfj8l5ibDyWHldjqtoS
+- 画面遷移図（ユーザー側）<br>
+URL：https://app.diagrams.net/#G10PbcLqE4X36aX-_cT6z1ZemVrusjwuVa
 
 ## 開発環境
 - OS：Linux(CentOS)
