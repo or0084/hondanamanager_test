@@ -1,3 +1,4 @@
+
 # 本棚マネージャー
 
 ## サイト概要
@@ -64,6 +65,4 @@ URL：https://docs.google.com/spreadsheets/d/1x5Y94AL_o7bbY8i81GedBcjM3BhrEhxQv8
 - フレームワーク：Ruby on Rails
 - JSライブラリ：jQuery
 - IDE：Cloud9
-
 ## 使用素材
-使用検討中です
