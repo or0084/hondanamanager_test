@@ -50,11 +50,11 @@ URL：https://app.diagrams.net/#G1qbNk4NrIIiOCzP9vfw8x0w8iNm5S1-os
 ### DB設計
 - ER図<br>
 URL：https://app.diagrams.net/#G1NprU74MRQmaGT6RUOeVtHUydntzklB8O
-- テーブル定義書
+- テーブル定義書<br>
 URL：https://docs.google.com/spreadsheets/d/1nBQo0LnUww747Zb5dvmElHG_Jq6DEMYIXwYBEH95GWE/edit#gid=0
 
 ### 詳細設計
-- アプリケーション詳細設計図
+- アプリケーション詳細設計図<br>
 URL：https://docs.google.com/spreadsheets/d/1x5Y94AL_o7bbY8i81GedBcjM3BhrEhxQv8_yTP4BQ1Q/edit#gid=549108681
 
 
